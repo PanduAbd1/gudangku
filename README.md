@@ -1,6 +1,6 @@
 # Gudangku - Sistem Manajemen Gudang
 
-UTS DT199 Backend Development, studi kasus 4. Laravel 13, Modular Monolith, Laravel Sanctum, RBAC (Admin dan Staff Gudang), Blade, SQLite.
+UTS Backend Development, studi kasus 4. Laravel 13, Modular Monolith, Laravel Sanctum, RBAC (Admin dan Staff Gudang), Blade, SQLite.
 
 ## Menjalankan
 
